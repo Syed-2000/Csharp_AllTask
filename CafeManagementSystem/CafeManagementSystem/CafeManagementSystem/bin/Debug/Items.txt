@@ -1,0 +1,7 @@
+0,BeefBiryyani,100,100
+1,Zinger_Burger,100,100
+2,Fish_fried,150,100
+3,Broast,150,100
+4,ChickenTikka,150,100
+5,Spagiti,100,100
+6,Chinese Chawal,100,100
