@@ -1,0 +1,5 @@
+C:\Users\osama\Desktop\Csharp\Encryption\Encryption\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\osama\Desktop\Csharp\Encryption\Encryption\Encryption\bin\Debug\Encryption.exe
+C:\Users\osama\Desktop\Csharp\Encryption\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Users\osama\Desktop\Csharp\Encryption\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Users\osama\Desktop\Csharp\Encryption\Encryption\Encryption\obj\Debug\Encryption.pdb
