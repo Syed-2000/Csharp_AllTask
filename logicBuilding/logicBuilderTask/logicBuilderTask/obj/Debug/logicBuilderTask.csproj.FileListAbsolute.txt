@@ -1,0 +1,6 @@
+C:\Users\osama\Desktop\Csharp\logicBuilding\logicBuilderTask\logicBuilderTask\bin\Debug\logicBuilderTask.exe.config
+C:\Users\osama\Desktop\Csharp\logicBuilding\logicBuilderTask\logicBuilderTask\bin\Debug\logicBuilderTask.exe
+C:\Users\osama\Desktop\Csharp\logicBuilding\logicBuilderTask\logicBuilderTask\bin\Debug\logicBuilderTask.pdb
+C:\Users\osama\Desktop\Csharp\logicBuilding\logicBuilderTask\logicBuilderTask\obj\Debug\logicBuilderTask.csprojResolveAssemblyReference.cache
+C:\Users\osama\Desktop\Csharp\logicBuilding\logicBuilderTask\logicBuilderTask\obj\Debug\logicBuilderTask.exe
+C:\Users\osama\Desktop\Csharp\logicBuilding\logicBuilderTask\logicBuilderTask\obj\Debug\logicBuilderTask.pdb
