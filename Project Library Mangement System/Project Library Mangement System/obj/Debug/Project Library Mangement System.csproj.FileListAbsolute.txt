@@ -1,0 +1,6 @@
+D:\Project Library Mangement System\Project Library Mangement System\bin\Debug\Project Library Mangement System.exe.config
+D:\Project Library Mangement System\Project Library Mangement System\obj\Debug\Project Library Mangement System.csprojResolveAssemblyReference.cache
+D:\Project Library Mangement System\Project Library Mangement System\bin\Debug\Project Library Mangement System.exe
+D:\Project Library Mangement System\Project Library Mangement System\bin\Debug\Project Library Mangement System.pdb
+D:\Project Library Mangement System\Project Library Mangement System\obj\Debug\Project Library Mangement System.exe
+D:\Project Library Mangement System\Project Library Mangement System\obj\Debug\Project Library Mangement System.pdb
